@@ -1,0 +1,26 @@
+Changelogs:
+
+1.0
+    * Inital Release 09 Jan 2015
+
+
+
+1.1.0
+    * Add Support Responsive Technology
+    * Fix The Notification Problems
+    * Remove The Extra Images
+    * Fix Many Bugs
+
+
+
+1.1.1
+    * Add Support RTL Languages
+    * Support phpBB 3.1.3
+
+
+1.1.2
+    * Fix Font-Size Of Main Forums
+    * Fix Search-Box In Header
+
+2.0.0
+    * Compatible with phpBB 3.3.2
