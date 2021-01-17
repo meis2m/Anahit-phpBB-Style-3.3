@@ -1,0 +1,109 @@
+	body {
+	background:url(./images/img/bg.jpg);
+	margin:0;
+    overflow-x: hidden;
+	}
+
+	.head {
+	background:url(./images/img/green-head.jpg) center;
+	height:265px;
+	}
+	
+    nav {
+	background:url(./images/img/nav-green.jpg) center 0 no-repeat,url(./images/img/nav.jpg);
+	height:60px;
+	}
+
+	.top1 {
+	background:url(./images/img/top-green.jpg);
+	height:47px;
+	width:100%;
+	z-index:10;
+	}
+	
+	.didyouknow {
+	background:#364d01;
+	border-radius:4px;
+	box-shadow:1px 1px 1px rgba(255,255,255,0.15);
+	color:rgba(255, 255, 255, 0.9);
+	float:left;
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+	font-size:13px;
+	height:28px;
+	line-height:27px;
+	margin-left:12px;
+	margin-top:6px;
+	padding:2px 13px;
+	}
+
+	.features {
+	background:url(./images/img/tools.jpg) right -253px;
+	width:123px;
+	}
+
+	.khat {
+	background:url(./images/img/khat.jpg);
+	height:10px;
+	margin-bottom:2px;
+	}
+
+	.banner-box {
+	background:#f2f2f2;
+	border:1px solid #ccc;
+	height:70px;
+	}
+
+	.wrapper {
+	background:rgba(255,255,255,0.95);
+	border:1px solid #ccc;
+	border-radius:0 0 5px 5px;
+	margin:-13px 41px -30px;
+	position:relative;
+	z-index:2;
+	}
+
+	.footer-left {
+	background:url(./images/img/footerg-left.jpg);
+	float:left;
+	height:210px;
+	margin-left:5px;
+	width:70px;
+	}
+
+	.footer-center {
+	background:url(./images/img/footerg-center.jpg);
+	height:192px;
+	margin-left:75px;
+	margin-right:75px;
+	padding-top:18px;
+	}
+
+	.footer-right {
+	background:url(./images/img/footerg-right.jpg);
+	float:right;
+	height:210px;
+	margin-right:5px;
+	margin-top:-210px;
+	width:70px;
+	}
+
+	.shadow {
+	background:url(./images/img/green-shadow.jpg);
+	background-size:cover;
+	height:18px;
+	margin:0 auto;
+	width:96%;
+	}
+
+	body a {
+	color:#438b00;
+	}
+	
+	.blockhead {
+	background:url(./images/img/forum-headc.jpg) bottom;
+	border:1px solid #5a7f97;
+    font-size:12px;
+	padding-bottom:5px;
+	padding-top:5px;
+	margin-top: 9px;
+	}
